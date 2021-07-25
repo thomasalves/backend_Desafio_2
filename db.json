@@ -1,0 +1,40 @@
+{
+  "Produtos": [
+    {
+      "id": 1,
+      "preco": "R$: 600,00",
+      "Descricao": "Celular Samsung Galaxy A02s Vermelho 32GB Tela 6.5' 3GB RAM Câmera Tripla 13MP + 2MP + 2MP",
+      "Poster": "https://yellmobile.vteximg.com.br/arquivos/ids/166016-290-290/celular-samsung-galaxy-a02s-lancamento-telefone-novo-celulares-yell-mobile-vermelho-06.jpg?v=637504670179970000"
+    },
+    {
+      "id": 2,
+      "preco": "R$:2.800,00",
+      "descricao": "Celular A31 128G AZ Samsung",
+      "photo": "https://a-static.mlcdn.com.br/618x463/celular-a31-128g-az-samsung/imperialeletromoveis/535ae4e8d04511eaa5c44201ac18501e/b3f001185a2f646038b460480a74b0b7.jpg"
+    },
+    {
+      "id": 3,
+      "proco": "R$: 1000.00",
+      "descricao": "Celular A31 128G AZ Samsung",
+      "photo": "https://a-static.mlcdn.com.br/618x463/smartphone-samsung-galaxy-a11-64gb-vermelho-4g-octa-core-3gb-ram-64-cam-tripla-selfie-8mp/magazineluiza/155585000/6c36a3f772f84559652fe351c6f106ce.jpg"
+    },
+    {
+      "id": 4,
+      "preco": "R$: 600,00", 
+      "descricao": "Smart watch ivo 13 preto novo 52 faces série 6 44mm lanç 2021 ios e android com 3 pulseiras - Microwear",
+      "photo": "https://a-static.mlcdn.com.br/618x463/smart-watch-ivo-13-preto-novo-52-faces-serie-6-44mm-lanc-2021-ios-e-android-com-3-pulseiras-microwear/shoppingnewtecheletronicos/10225216339/0a725c8e6675cb9a995a38fa940d3783.jpg"
+    },
+    {
+      "id": 5,
+      "preco": "R$: 250,00", 
+      "descricao": "Relógio smart watch haylou solar ls05 - tela color touch - esportes redes sociais - ls05 preto",
+      "photo": "https://a-static.mlcdn.com.br/618x463/relogio-smart-watch-haylou-solar-ls05-tela-color-touch-esportes-redes-sociais-ls05-preto/shoppingnewtecheletronicos/10236990418/cfe58a41192e8ffe44ee6246e3488b42.jpg"
+    },
+    {
+      "id": 6,
+      "preco": "R$: 590,00", 
+      "descricao": "Novo relógio ivo 13 série 6 azul smartwatch com 52 faces 44mm lanç 2021 ios e android 2 pulseiras azul - GlobalWatch Iwo",
+      "photo": "https://a-static.mlcdn.com.br/618x463/novo-relogio-ivo-13-serie-6-azul-smartwatch-com-52-faces-44mm-lanc-2021-ios-e-android-2-pulseiras-azul-globalwatch-iwo/shoppingnewtecheletronicos/10125110873/e73faac33e10b51dcca3ffe5c52137c5.jpg"
+    }
+  ]
+}
